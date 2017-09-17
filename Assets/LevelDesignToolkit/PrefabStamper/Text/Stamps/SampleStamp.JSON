@@ -1,0 +1,39 @@
+{
+    "center": {
+        "x": 2.774397134780884,
+        "y": -8.81143625784721e-17,
+        "z": 3.968317985534668
+    },
+    "bounds": {
+        "m_Center": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "m_Extent": {
+            "x": 0.5,
+            "y": 1.0,
+            "z": 0.5
+        }
+    },
+    "prefabs": [
+        {
+            "PrefabPath": "Assets/LevelDesignToolkit/PrefabStamper/Prefabs/SamplePrefab.prefab",
+            "position": {
+                "x": 2.774397134780884,
+                "y": -8.81143625784721e-17,
+                "z": 3.968317985534668
+            },
+            "eulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    ]
+}
